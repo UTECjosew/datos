@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE estados-compra SYSTEM "http://www.comprasestatales.gub.uy/Documentos/DTD/estados-compra.dtd">
+<estados-compra><estado-compra id="4" descripcion="EN TRÁMITE (PUBLICADA)" /><estado-compra id="5" descripcion="EN TRÁMITE (ESTUDIO)" /><estado-compra id="7" descripcion="ADJUDICADA" /><estado-compra id="11" descripcion="EN TRÁMITE (OFERTAS PREPARADAS)" /><estado-compra id="17" descripcion="ADJUDICADA (CON AMPLIACIÓN)" /><estado-compra id="19" descripcion="LLAMADO ANULADO" /><estado-compra id="27" descripcion="ADJUDICADA (CON RENOVACIÓN)" /></estados-compra>

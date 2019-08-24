@@ -1,0 +1,23 @@
+Campo;Tipo;Descripción;Recurso Relacionado
+anio_compra;Numérico;Año de la compra;
+apel;Texto;"Indica si la modalidad de apertura es electrónica (valores posibles: ""S"" o ""N"")";
+arch_adj;Texto;Nombre del archivo de resolución de adjudicación;
+arch_reiteracion;Texto;Nombre del archivo de reiteración del gasto;
+es_reiteracion;Texto;"Indica si se reitera el gasto (valores posibles: ""S"" o ""N"")";
+estado_compra;Numérico;Código del estado de la compra;https://catalogodatos.gub.uy/dataset/compras-estatales/resource/2dc49850-e2b5-434f-8c81-4c91ad1394bf
+fecha_compra;Fecha;Fecha de la compra;
+fecha_pub_adj;Fecha;Fecha de la adjudicación;
+fondos_rotatorios;Texto;"Indica si la compra es por fondos rotatorios (valores posibles: ""S"" o ""N"")";
+id_compra;Numérico;Identificador de compra;
+id_inciso;Numérico;Identificador del Inciso;https://catalogodatos.gub.uy/dataset/compras-estatales/resource/65ceb3c4-ac69-427c-a683-8da4f293344f
+id_moneda_monto_adj;Numérico;Identificador de la moneda;https://catalogodatos.gub.uy/dataset/compras-estatales/resource/42a7cbec-ec1f-4594-b5e4-23bc25e7d1bf
+id_tipo_resol;Numérico;Identificador del tipo de resolución;https://catalogodatos.gub.uy/dataset/compras-estatales/resource/4a3d6b1e-9920-49cb-8485-e1748ba95a51
+id_tipocompra;Texto;Identificador del tipo de compra;https://catalogodatos.gub.uy/dataset/compras-estatales/resource/9df794ca-a51c-47ed-90a3-a2f0118889fa
+id_ue;Numérico;Identificador de la Unidad Ejecutora;https://catalogodatos.gub.uy/dataset/compras-estatales/resource/a3f8d5f4-1ec8-4888-b38e-d1d7b98e4542
+monto_adj;Numérico;Monto adjudicado;
+nro_ampliacion;Numérico;Número de ampliación;
+num_compra;Numérico;Número de compra;
+num_resol;Numérico;Número de resolución;
+objeto;Texto;Objeto de la compra;
+subtipo_compra;Texto;Identificador del subtipo de compra;https://catalogodatos.gub.uy/dataset/compras-estatales/resource/0cb1e938-bc0f-41ac-98f3-8fb67681f6b7
+open_contracting_link;Texto;URL al record publicado en formato OCDS (Open Contracting Data Standard);

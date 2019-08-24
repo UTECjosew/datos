@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE tipos-res SYSTEM "http://www.comprasestatales.gub.uy/Documentos/DTD/tipos-resolucion.dtd">
+<tipos-res><tipo-res id="1" descripcion="Adjudicada totalmente" /><tipo-res id="2" descripcion="Adjudicada parcialmente" /><tipo-res id="3" descripcion="Declarada desierta" /><tipo-res id="4" descripcion="Declarada sin efecto" /><tipo-res id="5" descripcion="Lista corta seleccionada" /><tipo-res id="6" descripcion="Resultado de la convocatoria" /><tipo-res id="7" descripcion="Todas las ofertas rechazadas" /></tipos-res>

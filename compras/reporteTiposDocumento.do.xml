@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE tipos-doc SYSTEM "http://www.comprasestatales.gub.uy/Documentos/DTD/tipos-documento.dtd">
+<tipos-doc><tipo-doc tipo="C" descripcion="Cédula" prov-rupe="S" pcpd="N" /><tipo-doc tipo="E" descripcion="Cédula Extranjera" prov-rupe="S" pcpd="N" /><tipo-doc tipo="G" descripcion="Genérico" prov-rupe="N" pcpd="N" /><tipo-doc tipo="N" descripcion="NIE" prov-rupe="S" pcpd="N" /><tipo-doc tipo="P" descripcion="Pasaporte" prov-rupe="S" pcpd="N" /><tipo-doc tipo="R" descripcion="RUT" prov-rupe="S" pcpd="S" /><tipo-doc tipo="T" descripcion="Propio de Tesorería" prov-rupe="N" pcpd="N" /><tipo-doc tipo="X" descripcion="Empresa Extranjera" prov-rupe="S" pcpd="N" /></tipos-doc>
